@@ -4,6 +4,6 @@
   "compatibility_date": "2026-10-01",
   "assets": { "directory": "./public", "binding": "ASSETS", "run_worker_first": ["/api/*"] },
   "d1_databases": [
-    { "binding": "DB", "database_name": "cdl-ms-basketball", "database_id": "7ff8da86-6063-4e98-840e-c249dc796678" }
+    { "binding": "DB", "database_name": "cds-ms-basketball", "database_id": "7ff8da86-6063-4e98-840e-c249dc796678" }
   ]
 }
